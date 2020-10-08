@@ -1,2 +1,3 @@
-# 3DCharacterAnimation
-Example of using a 3D character import from Adobe Mixamo into Unreal Engine4
+# Mixamo 3D Character Animation in Unreal Engine 4
+
+This project demos a animated character downloaded from Adobe Mixamo and using the character in an Unreal Engine 4 third person view game setup.
